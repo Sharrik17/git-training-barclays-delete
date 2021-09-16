@@ -1,2 +1,4 @@
 package com.Sharrik;
- class Hello{}
+ class Hello{
+	public void hi(){}
+}
